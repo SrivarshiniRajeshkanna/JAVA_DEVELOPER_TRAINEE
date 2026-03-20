@@ -1,5 +1,5 @@
 //ADDITION OF 2D ARRAY
-/*import java.util.*;
+import java.util.*;
 class day_4{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
@@ -34,9 +34,9 @@ class day_4{
 			}
 		}
 	}
-} */
+} 
 // TRANSPOSE OF A MATRIX
-/*import java.util.*;
+import java.util.*;
 class day_4{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
@@ -64,10 +64,10 @@ class day_4{
 				System.out.println();
 		}
 	}
-}*/
+}
 
 //SECOND LARGEST ELEMENT
-/*import java.util.*;
+import java.util.*;
 class day_4{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
@@ -95,7 +95,7 @@ class day_4{
 			System.out.println("The second largest no is : " +smax);
 			}
 		}
-	} */
+	} 
 
   import java.util.*;
   class day_4{
