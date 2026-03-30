@@ -28,13 +28,13 @@ public class Constructorchainingdemo{
 		double finalprize=0;
 		do{
 			System.out.println("\n--- HOTEL MENU ---");
-            System.out.println("1. Idli - ₹30");
-            System.out.println("2. Dosa - ₹50");
-            System.out.println("3. Poori - ₹40");
-            System.out.println("4. Pongal - ₹50");
-            System.out.println("5. Chapathi - ₹33");
-            System.out.println("6. Chole Bature - ₹70");
-            System.out.println("7. Mini Idli - ₹25");
+            System.out.println("1. Idli - Rupees 30");
+            System.out.println("2. Dosa - Rupees 50");
+            System.out.println("3. Poori - Rupees 40");
+            System.out.println("4. Pongal - Rupees 50");
+            System.out.println("5. Chapathi - Rupees 33");
+            System.out.println("6. Chole Bature - Rupees 70");
+            System.out.println("7. Mini Idli - Rupees 25");
             System.out.println("8. Exit");
             System.out.print("Enter your choice: ");
             choice = sc.nextInt();
@@ -79,8 +79,8 @@ public class Constructorchainingdemo{
 			System.out.print("\nDo you want to continue? (y/n): ");
             cont = sc.next().charAt(0);
 			} while (cont == 'y' || cont == 'Y');
-			System.out.println("\nTotal Bill = ₹" + finalprize);
-			System.out.println("Thank you! Visit again 😊");
+			System.out.println("\nTotal Bill = Rupees " + finalprize);
+			System.out.println("Thank you! Visit again ");
 	}
 }
 		
